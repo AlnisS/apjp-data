@@ -1,0 +1,59 @@
+unit,b,type,kanji,kana,english
+3.1,n,noun,-,ペットボトル,plastic bottle
+3.1,n,noun,アルミ缶,あるみかん,aluminum can
+3.1,n,noun,-,ごみ・ゴミ,garbage
+3.1,n,noun,再生紙,さいせいし,recycled paper
+3.1,n,noun,資源ごみ,しげんごみ,recyclable garbage
+3.1,n,noun,地球,ちきゅう,earth
+3.1,n,noun,温暖化,おんだんか,warming
+3.1,n,noun,量,りょう,amount
+3.1,n,noun,地球温暖化,ちきゅうおんだんか,global warming
+3.1,n,noun,粗大ごみ,そだいごみ,oversized garbage
+3.1,n,noun,例,れい,example
+3.1,n,noun,資源,しげんごみ,resources
+3.1,n,verb,-,リサイクルする,recycle
+3.1,n,verb,-,リデュースする,reduce
+3.1,n,verb,-,リユースする,reuse
+3.1,n,verb,-,コンポストする,compost
+3.1,n,verb,捨てる,すてる,throw away
+3.1,n,verb,減らす,（〜を）へらす,decrease (trans.)
+3.1,n,verb,減る,（〜を）へる,decrease (intrans.)
+3.1,n,verb,増やす,（〜を）ふやす,increase (trans.)
+3.1,n,verb,増える,（〜を）ふえる,increase (intrans.)
+3.1,n,verb,要る,（〜が）いる・いります,need
+3.1,n,verb,役に立つ,（〜が）やくにたつ,be useful
+3.1,n,verb,表す,あらわす,show/display
+3.1,n,verb,助ける,たすける,save/rescue
+3.1,n,verb,守る,まもる,protect
+3.1,n,adjective,必要,ひつよう,necessary
+3.1,n,adjective,不便,ふべん,inconvenient
+3.1,n,adjective,便利,べんり,convenient
+3.1,n,adjective,可燃,かねん,burnable
+3.1,n,adjective,不燃,ふねん,non-burnable
+3.1,n,adjective,現在,げんざい,modern
+3.1,n,other,最近,さいきん,recently
+3.1,n,other,以上,いじょう,more than
+3.1,n,other,-,なるべく,as much as possible
+3.1,n,other,一方,いっぽう,on the other hand
+3.1,y,,埋める,うめる,to bury
+3.1,y,,沈める,しずめる,to sink
+3.1,y,,運ぶ,はこぶ,to carry
+3.1,y,,煙,けむり,smoke
+3.1,y,,有害,ゆうがい,toxic
+3.1,y,,焼却場,しょうきゃくじょう,incinerator
+3.1,y,,埋立地,うめたてち,landfill
+3.1,y,,酸性雨,さんせいう,acid rain
+3.1,y,,空き地,あきち,vacant land
+3.1,y,,乾電池,かんでんち,batteries
+3.1,y,,状態,じょうたい,situation
+3.1,y,,目もり,めもり,axis
+3.1,y,,中身,なかみ,contents
+3.1,y,,ゴミ収集車,ごみしゅうしゅうしゃ,garbage truck
+3.1,y,,想像,そうぞう,imagination
+3.1,y,,収集する,しゅうしゅうする,to collect
+3.1,y,,狙う,ねらう,to target
+3.1,y,,埋める,うめる,to bury
+3.1,y,,燃やす,もやす,to burn
+3.1,y,,寄付する,きふする,to donate
+3.1,y,,快適,かいてき,comfortable
+3.1,y,,途中,とちゅう,in transit
