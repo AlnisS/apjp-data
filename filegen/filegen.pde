@@ -32,15 +32,17 @@ for (TableRow row : table.rows()) {
   }
   
   TableRow ne_row = ne.addRow();
-  TableRow ke_row = ke.addRow();
-  TableRow kn_row = kn.addRow();
-  
   ne_row.setString("kana",    row.getString("kana"));
   ne_row.setString("english", row.getString("english"));
-  ke_row.setString("kanji",   row.getString("kanji"));
-  ke_row.setString("english", row.getString("english"));
-  kn_row.setString("kanji",   row.getString("kanji"));
-  kn_row.setString("kana",    row.getString("kana"));
+  
+  if (!row.getString("kanji").equals("-")) {
+    TableRow ke_row = ke.addRow();
+    TableRow kn_row = kn.addRow();
+    ke_row.setString("kanji",   row.getString("kanji"));
+    ke_row.setString("english", row.getString("english"));
+    kn_row.setString("kanji",   row.getString("kanji"));
+    kn_row.setString("kana",    row.getString("kana"));
+  }
 }
 
 println("saving data...");
