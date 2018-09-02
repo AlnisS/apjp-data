@@ -51,7 +51,8 @@ for (Map.Entry<String, Table> entry : outs.entrySet()) {
   String name = entry.getKey();
   Table tosave = entry.getValue();
   String unit = name.substring(0, name.indexOf("_"));
-  saveTable(tosave, "../units/" + unit + "/" + name + ".csv");
+  saveTable(tosave, "../units-csv/" + unit + "/" + name + ".csv");
+  saveTable(tosave, "../units-tsv/" + unit + "/" + name + ".csv", "tsv");
 }
 
 println("done!");
